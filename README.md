@@ -1,8 +1,8 @@
 <h1>Hi, I'm Fernando! <br/><a href="https://github.com/fernsgraphics">Graphic Designer</a>, <a href="https://www.linkedin.com/in/fernando-marticorena-9b5712205/">Information Technologhy Professional</a>, <a </a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Graphic Design Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Graphic Design Portfolio (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmaakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmdakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
