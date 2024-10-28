@@ -2,8 +2,6 @@
 
 <h2>👨‍💻 Graphic Design Projects:</h2>
 
-- <b>Graphic Design Portfolio (AlgoExpert)</b>
-
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
